@@ -1,0 +1,14 @@
+Package: com-ios9.3D_Free_Car_Parking
+Name: IOS 9 32 Bit
+Version: 1
+Architecture: iphoneos-arm
+Description: Tools für 32bit ios 9
+Maintainer: TesterVBNM
+Author: TesterVBNM
+Section: Games
+Depends: anything
+Filename: debs/3D_Free_Car_Parking_Experts_3D_Free_com.chi.ParkingCarNew-1.0-iOS3.1.3-Clutch-2.0.4.deb
+Size: 57.776.537
+MD5sum: 8e8a0b49300478d5a82fd8af68a3d1aa
+SHA1: D37E273F8B909082D25AD13F4FEFD2625533B8F5
+SHA256: B46AC1B13D9CE5AF609FA204CE6D19E4BBD8D3CE281EB94669ACF13F626E4D5F
